@@ -1,4 +1,4 @@
-# QUIZ da NBA Em C#
+# QUIZ da NBA em C#
 
 Este projeto é uma aplicação simples de um questionário desenvolvido em C# sobre alguns acontecimentos da NBA.
 
